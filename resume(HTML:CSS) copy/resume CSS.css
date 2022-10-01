@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+
+* {
+    font-family: 'Montserrat';
+}
+
+.main {
+    width: 610px;
+    padding: 30px;
+    margin: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    background-color: #1e1e1e;
+    padding: 20px;
+    font-size: 12px;
+    color: #919191;
+}
+body,h1,h2 {
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    min-width: fit-content;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    margin-bottom: -10px;
+    padding-bottom: 0px;
+}
+
+.name-text{
+    font-size: 18px;
+    font-weight: light;
+    text-align: right;
+    margin-bottom: 100px;
+    padding-bottom: 0px;
+}
+
+h2 {
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(32, 33, 32);
+    border-bottom: 1px solid #ebebeb;
+    text-align: left;
+    margin-bottom: 16px;
+    padding-bottom: 0px;
+    font-weight: lighter;
+    margin-top: 20px;
+}
+.about-me-text{
+    margin:0px;
+    padding:0px;
+    text-align: justify;
+    text-indent: 3%;
+}
+body {
+    min-width: fit-content;
+}
+.Ex1{
+    font-size: 17px;
+    font-weight: bold;
+    color: #282828;
+    float: left;
+    margin:0px;
+    padding:0px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Ex2{
+    font-size: 17px;
+    font-weight: lighter;
+    color: #282828;
+    float: right;
+    margin:0px;
+    padding:0px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.float-wrap{
+    overflow: hidden;
+    font-size: 80px;
+
+}
+.desc-text{
+    font-size: 15px;
+    color: #3e3d3d;
+    margin:0px;
+    padding:0px;
+    padding-left: 45px;
+    padding-right: 2px;
+    text-align: left;
+}
+.desc-subtext{
+    font-size: 15px;
+    color: #3e3d3d;
+    margin:0px;
+    padding:0px;
+    padding-left: 45px;
+    padding-right: 2px;
+    text-align: left;
+
+}
+.sns-img{
+    width: 19px;
+    height: 19px;
+}
+.sns-wrap{
+    text-align: right;
+}
